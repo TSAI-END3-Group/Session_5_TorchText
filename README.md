@@ -59,3 +59,11 @@ __Training Logs:__
 
 __Test Accuracy:__
 60%
+
+
+
+## Contributors
+* Rohit Agarwal
+* Kushal Gandhi
+* Vivek Kumar 
+* Ammishaddai U
