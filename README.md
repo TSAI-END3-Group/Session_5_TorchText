@@ -1,6 +1,6 @@
 # Problem Statement
 This assignment is to understand the use of torchtext API and its use in text classification. 
-We have take the two data sets for the purpose of the assigment and train our model such that the training accuracy is 50% more than the random prediction
+We have taken the two data sets for the purpose of the assigment and train our model such that the training accuracy is 50% more than the random prediction
 
 1. [IMDB](https://pytorch.org/text/stable/datasets.html#imdb)
 
