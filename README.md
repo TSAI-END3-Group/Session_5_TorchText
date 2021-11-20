@@ -1,6 +1,6 @@
 # Problem Statement
 This assignment is to understand the use of torchtext API and its use in text classification. 
-We have taken the two data sets for the purpose of the assigment and train our model such that the training accuracy is 50% more than the random prediction
+We have taken the two data sets for the purpose of the assigment and train our model such that the test accuracy is 50% more than the random prediction
 
 1. [IMDB](https://pytorch.org/text/stable/datasets.html#imdb)
 
@@ -35,14 +35,14 @@ Required Accuracy= 20%+.2*50 >=30%
 refer to the file [IMDB](https://github.com/TSAI-END3-Group/Session_5_TorchText/blob/master/dataset_IMDB.ipynb) 
 
 __Training Accuracy:__
-After 10 epochs accuracy is 87% which is greater than the required accuracy (75%)
+After 10 epochs accuracy is 87% 
 
 __Training Logs:__
 ![alt text](img/trainingLog_IMDB.png "Title")
 
 
 __Test Accuracy:__ 
-86%
+86%  which is greater than the required accuracy (75%)
 
 
 
@@ -50,7 +50,7 @@ __Test Accuracy:__
 refer to the file [YelpReviewFull](https://github.com/TSAI-END3-Group/Session_5_TorchText/blob/master/dataset_YelpReviewFull.ipynb)
 
 __Training Accuracy:__
-After 10 epoch the training accuracy is 60% which is greater than the required accuracy (30%)
+After 10 epoch the training accuracy is 60% 
 
 __Training Logs:__
 ![alt text](img/trainingLog_yelp.png "Title")
@@ -58,7 +58,7 @@ __Training Logs:__
 
 
 __Test Accuracy:__
-60%
+60% which is greater than the required accuracy (30%)
 
 
 
